@@ -5,7 +5,7 @@ title: Charu Kandwal
 description: "Description to be added"
 analytics: UA-73286242-1 #curious
 baseurl: "" #important: start with /
-url: "http://charukandwal.github.io"
+url: "http://ckandwal.github.io"
 
 # Build settings
 markdown: kramdown

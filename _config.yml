@@ -2,10 +2,10 @@
 
 # Site settings
 title: Charu Kandwal
-description: "My Digital World"
+description: "Description to be added"
 analytics: UA-73286242-1 #curious
 baseurl: "" #important: start with /
-url: "http://av1nash.github.io"
+url: "http://charukandwal.github.io"
 
 # Build settings
 markdown: kramdown
@@ -99,7 +99,7 @@ tel: +1 925-322-1607
 #    img: client04.png
     
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
-about: "Hi, I'm Avinash Tripathi. I am a Database and Business Intelligence consultant"
+about: "Hi, I'm Charu Kandwal. I am a Data Scientist in making"
 
 # Testimonial content. Shown on Home and About page. 
 #testimonial:
